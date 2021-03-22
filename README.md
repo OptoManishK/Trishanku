@@ -11,5 +11,4 @@ Quick advantages:
 
 All the details are in the Trishanku_manuscript.pdf file.
 
-If preferred, you may use the template files and print them to match trishanku.
-If you want, do personalize it to match your own favourite constellation.
+Use the provided template files or personalize it to match your own favourite constellation.
